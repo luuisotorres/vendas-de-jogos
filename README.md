@@ -18,7 +18,6 @@ Este estudo foi realizado em duas principais partes:
 
 <img src ='https://cdn.startschoolnow.org/wp-content/uploads/Statistics-Descriptive-and-inferential-statistics.png' align = "center"><br><br>
 
---
 
 
 Foi carregado o *dataset* no Jupyter Notebook através do método pandas.read_csv() para que fosse possível identificar o conteúdo presente no arquivo .csv.
