@@ -57,7 +57,7 @@ Por fim, foram realizadas as conversões necessárias para lidar com os dados, c
 <img src ='https://cdn.startschoolnow.org/wp-content/uploads/Statistical-treatment-of-data-696x261.jpg' align = "center"><br><br>
 
 
-A visualização dos dados foi realizada por meio das bibliotecas *matplotlib*,*seaborn* e *plotly* e foi feita de acordo com as colunas do *dataset*, abordando, então, os **jogos, consoles, publicadoras, ano de lançamento, gênero e regiões** respeitando as particularidades de cada categoria de dados presentes no estudo.
+A visualização dos dados foi realizada por meio das bibliotecas *matplotlib*, *seaborn* e *plotly* e foi feita de acordo com as colunas do *dataset*, abordando, então, os **jogos, consoles, publicadoras, ano de lançamento, gênero e regiões** respeitando as particularidades de cada categoria de dados presentes no estudo.
 Através das visualizações, foi possível identificar os jogos mais vendidos, os gêneros mais populares, as empresas mais rentáveis, consoles mais populares,etc...
 
 
