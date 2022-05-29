@@ -19,6 +19,8 @@ Este estudo foi realizado em duas principais partes:
 <img src ='https://cdn.startschoolnow.org/wp-content/uploads/Statistics-Descriptive-and-inferential-statistics.png' align = "center"><br><br>
 
 --
+
+
 Foi carregado o *dataset* no Jupyter Notebook através do método pandas.read_csv() para que fosse possível identificar o conteúdo presente no arquivo .csv.
 O *dataset*, inicialmente, era compsto de 11 colunas e 16.598 linhas, com todo o conteúdo em Inglês. As colunas presentes no *dataset* estavam contidas com os seguintes registros:
 > - **Rank**: Se trata da posição daquele determinado jogo no *ranking* de vendas;
@@ -53,15 +55,15 @@ Por fim, foram realizadas as conversões necessárias para lidar com os dados, c
 ### 2ª - Visualizando os Dados
 --
 
-<img src ='[https://cdn.startschoolnow.org/wp-content/uploads/Statistics-Descriptive-and-inferential-statistics.png](https://cdn.startschoolnow.org/wp-content/uploads/Statistical-treatment-of-data-696x261.jpg)' align = "center"><br><br>
+<img src ='https://cdn.startschoolnow.org/wp-content/uploads/Statistical-treatment-of-data-696x261.jpg' align = "center"><br><br>
 
---
+
 A visualização dos dados foi realizada por meio das bibliotecas *matplotlib*,*seaborn* e *plotly* e foi feita de acordo com as colunas do *dataset*, abordando, então, os **jogos, consoles, publicadoras, ano de lançamento, gênero e regiões** respeitando as particularidades de cada categoria de dados presentes no estudo.
 Através das visualizações, foi possível identificar os jogos mais vendidos, os gêneros mais populares, as empresas mais rentáveis, consoles mais populares,etc...
 
 
 ## Conclusão 
---
+
 
 As principais conclusões que foram feitas por meio do estudo foram:<br><br>
 - Até 2016, o **jogo mais vendido** da história dos videogames era o Wii Sports, lançado pela Nintendo para o console Nintendo Wii em 2006, com 82.74 milhões de cópias vendidas, seguido por Grand Theft Auto V da Take-Two Interactive e Super Mario Bros. da Nintendo, respectivamente.<br> <br> 
@@ -71,7 +73,7 @@ As principais conclusões que foram feitas por meio do estudo foram:<br><br>
 - A América do Norte foi a região mais rentável para a indústria dos videogames, seguida pelo Japão, durante as décadas de 1980 e 1990. A partir dos últimos anos de 1990 e durante as décadas de 2000 e 2010, a Europa passou o Japão nos números de venda e passou a ser a 2ª região mais rentável para a indústria.<br> <br> 
 - Por fim, se conclui que a indústria apresentou forte expansão durante os anos de 1990 e 2000, atingindo seu ápice por volta de 2008 e, então, desacelerando seu crescimento durante os anos 2010, justamente na mesma época em que os *smartphones* começaram a ganhar espaço e o florescimento de uma nova indústria de jogos mobile.<br><br>
 
---
+
 
 
 ### Bibliotecas utilizadas
