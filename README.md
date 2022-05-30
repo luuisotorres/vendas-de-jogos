@@ -34,7 +34,7 @@ O *dataset*, inicialmente, estava composto de 11 colunas e 16.598 linhas, com to
 > - **Other_Sales**: Vendas no em outras regiões além de Japão, Europa e América do Norte;
 > - **Global_Sales**: Total de vendas mundiais.
 
-Após a apresentação inicial ao conteúdo do *dataset*, começaram, então, os tratamentos dos dados, através da tradução do Inglês para Português-brasileiro e alteração em alguns registros, visando facilitar o entendimento do conteúdo pelo leitor. Além disto, foram identificados dados sem registros e estes foram tratados de forma como melhor convinha de acordo com os objetivos do estudo.
+Após a apresentação inicial ao conteúdo do *dataset*, começaram, então, os tratamentos dos dados, através da tradução do Inglês para Português-brasileiro e alteração em alguns registros, visando facilitar o entendimento do conteúdo pelo leitor. Além disto, foram identificados dados sem registros e estes foram tratados de forma como melhor convinha de acordo com os objetivos do estudo.<br>
 Por fim, foram realizadas as conversões necessárias para lidar com os dados, como converter a coluna de Anos de Lançamento de *float* para *int*, anos cujos dados foram considerados incompletos também foram removidos do *dataframe* e foi realizada uma **soma** de vendas de cada jogo, incluindo as vendas em multiplataforma, para que fosse criado um *ranking* de vendas condizente com a realidade da época em que o *dataset* foi publicado, **2016**.
 
 #### Ranking de Vendas de Jogos de 1980 até 2016 
@@ -57,7 +57,7 @@ Por fim, foram realizadas as conversões necessárias para lidar com os dados, c
 <img src ='https://cdn.startschoolnow.org/wp-content/uploads/Statistical-treatment-of-data-696x261.jpg' align = "center"><br><br>
 
 
-A visualização dos dados foi realizada por meio das bibliotecas *matplotlib*, *seaborn* e *plotly* e foi feita de acordo com as colunas do *dataset*, abordando, então, os **jogos, consoles, publicadoras, ano de lançamento, gênero e regiões** respeitando as particularidades de cada categoria de dados presentes no estudo.
+A visualização dos dados foi realizada por meio das bibliotecas *matplotlib*, *seaborn* e *plotly* e foi feita de acordo com as colunas do *dataset*, abordando, então, os **jogos, consoles, publicadoras, ano de lançamento, gênero e regiões** respeitando as particularidades de cada categoria de dados presentes no estudo.<br>
 Através das visualizações, foi possível identificar os jogos mais vendidos, os gêneros mais populares, as empresas mais rentáveis, consoles mais populares,etc...
 
 
