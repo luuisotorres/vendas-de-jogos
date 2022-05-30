@@ -20,8 +20,8 @@ Este estudo foi realizado em duas principais partes:
 
 
 
-Foi carregado o *dataset* no Jupyter Notebook através do método pandas.read_csv() para que fosse possível identificar o conteúdo presente no arquivo .csv.
-O *dataset*, inicialmente, era compsto de 11 colunas e 16.598 linhas, com todo o conteúdo em Inglês. As colunas presentes no *dataset* estavam contidas com os seguintes registros:
+Foi carregado o *dataset* no Jupyter Notebook através do método pandas.read_csv() para que fosse possível identificar o conteúdo presente no arquivo .csv.<br>
+O *dataset*, inicialmente, estava composto de 11 colunas e 16.598 linhas, com todo o conteúdo em Inglês. As colunas presentes no *dataset* estavam contidas com os seguintes registros:
 > - **Rank**: Se trata da posição daquele determinado jogo no *ranking* de vendas;
 > - **Name**: Se trata do título do jogo;
 > - **Platform**: Se trata do console em que o jogo foi lançado;
