@@ -86,7 +86,7 @@ As principais conclusões que foram feitas por meio do estudo foram:<br><br>
 
 #### Kaggle
 
-Como o notebook utiliza alguns gráficos da biblioteca *Plotly*, cuja interatividade dos gráficos se perde no *Github*, eu deixo aqui <a href="[https://www.kaggle.com/datasets/gregorut/videogamesales](https://www.kaggle.com/code/lusfernandotorres/vendas-de-jogos-de-videogames)">um link para acessar este notebook no Kaggle</a> onde os gráficos *Plotly* são interativos.
+Como o notebook utiliza alguns gráficos da biblioteca *Plotly*, cuja interatividade dos gráficos se perde no *Github*, eu deixo aqui <a href="https://www.kaggle.com/code/lusfernandotorres/vendas-de-jogos-de-videogames">um link para acessar este notebook no Kaggle</a> onde os gráficos *Plotly* são interativos.
 
 ## Author:
 **Luís Fernando Torres**
